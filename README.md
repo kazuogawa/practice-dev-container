@@ -10,6 +10,7 @@ https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-cont
 
 [!CAUTION]
 Kiro では dev container は利用できません。VSCode を使う必要があります。
+
 https://github.com/kirodotdev/Kiro/issues/164
 
 2. 作成後、VS Code で開発コンテナに入ってください
@@ -23,4 +24,5 @@ npx vibe-kanban
 ## 参照元
 
 下記を参考に.devcontainer は作成
+
 https://github.com/anthropics/claude-code/tree/main/.devcontainer
