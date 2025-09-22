@@ -8,10 +8,9 @@ dev container 内で、vibe-kanban を起動してみる project です。
 
 https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers
 
-[!CAUTION]
-Kiro では dev container は利用できません。VSCode を使う必要があります。
-
-https://github.com/kirodotdev/Kiro/issues/164
+> [!CAUTION]
+> Kiro では dev container は利用できません。VSCode を使う必要があります。
+> https://github.com/kirodotdev/Kiro/issues/164
 
 2. 作成後、VS Code で開発コンテナに入ってください
 
